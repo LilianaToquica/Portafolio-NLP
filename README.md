@@ -1,7 +1,8 @@
 ## Talleres nlp 2020
-You can use the [editor on GitHub](https://github.com/LilianaToquica/Portafolio-NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi nombre es Liliana Toquica soy ingeniera de sistemas con Especialización en Analítica Estratégica de Datos.  Responsable y exigente, con aptitud de adaptarse a los retos del entorno y altamente competitiva con actitud positiva y analítica, teniendo gran facilidad para la comunicación, trabajo en equipo y manejo interpersonal. Excelente interacción con el cliente, vocación al servicio y desarrollo de habilidades comunicativas. 
+En este repositorio les mostraré los diferentes talleres que realicé para el análisis de Procesamiento de Lenguaje Natural (NLP)
+
 
 ### Markdown
 

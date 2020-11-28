@@ -5,7 +5,7 @@ Mi nombre es Liliana Toquica soy ingeniera de sistemas con Especialización en A
 
 En este repositorio les mostraré los diferentes talleres que realicé para el análisis de Procesamiento de Lenguaje Natural (NLP)
 
-### Markdown
+### Talleres
 
 Taller2: https://github.com/LilianaToquica/Proyectos-NLP/blob/master/Taller_2.ipynb
 

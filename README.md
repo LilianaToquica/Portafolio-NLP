@@ -31,6 +31,8 @@ https://github.com/LilianaToquica/Proyectos-NLP/blob/master/Taller%2010%20-%20Tw
 Taller de análisis de sentimiento de la información extraída de Twitter:
 https://github.com/LilianaToquica/Proyectos-NLP/blob/master/Taller%2011%20-%20Sentimiento.ipynb
 
+Proyecto Final- Análisis de Sentimientos de Películas:
+https://github.com/LilianaToquica/Proyectos-NLP/blob/master/proyecto_final.ipynb
 
 ### Si me quieren contactar me pueden escribir al correo: leyditl@yahoo.com
 

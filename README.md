@@ -7,7 +7,7 @@ En este repositorio les mostraré los diferentes talleres que realicé para el a
 
 ### Talleres
 
-Taller2: https://github.com/LilianaToquica/Proyectos-NLP/blob/master/Taller_2.ipynb
+Adquisión de datos y realización de scraping de links:  https://github.com/LilianaToquica/Proyectos-NLP/blob/master/Taller_2.ipynb
 
 ```markdown
 Syntax highlighted code block

@@ -1,12 +1,11 @@
-## Talleres NL 2020
-
+## Talleres nlp 2020
 You can use the [editor on GitHub](https://github.com/LilianaToquica/Portafolio-NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Taller2: https://github.com/LilianaToquica/Proyectos-NLP/blob/master/Taller_2.ipynb
 
 ```markdown
 Syntax highlighted code block
